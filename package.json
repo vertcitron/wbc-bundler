@@ -4,5 +4,13 @@
   "description": "A bundler to build TS + SASS Web Components",
   "main": "index.js",
   "author": "Stéphane Souron<stef@vertcitron.fr>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "serve": "parcel ./src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.23.1",
+    "typescript": "^3.6.4"
+  }
 }
