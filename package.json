@@ -1,0 +1,8 @@
+{
+  "name": "wbc-bundler",
+  "version": "0.0.1",
+  "description": "A bundler to build TS + SASS Web Components",
+  "main": "index.js",
+  "author": "Stéphane Souron<stef@vertcitron.fr>",
+  "license": "MIT"
+}
